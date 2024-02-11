@@ -179,7 +179,7 @@
                 },
                 {
                     "name": "RStick",
-                    "id": "e8454219-5278-4b04-b89e-f7fa017b1a85",
+                    "id": "d803d275-426a-4293-9cdd-d172ba315e21",
                     "path": "1DAxis",
                     "interactions": "",
                     "processors": "",
@@ -190,7 +190,7 @@
                 },
                 {
                     "name": "negative",
-                    "id": "e65919f0-7a4a-4ff4-a216-4b5c662e8ccb",
+                    "id": "23f61107-0d7f-46df-b903-77920c0069f3",
                     "path": "<Gamepad>/rightStick/left",
                     "interactions": "",
                     "processors": "",
@@ -201,7 +201,7 @@
                 },
                 {
                     "name": "positive",
-                    "id": "ddc5567c-c49e-4872-944d-08506bbdcae6",
+                    "id": "4e03f0a1-639d-4fc7-bf65-f014a3260f37",
                     "path": "<Gamepad>/rightStick/right",
                     "interactions": "",
                     "processors": "",
@@ -244,8 +244,8 @@
                     "isPartOfComposite": true
                 },
                 {
-                    "name": "RStick",
-                    "id": "f98713a1-deb9-41f3-93bc-39d655b5a4fb",
+                    "name": "Triggers",
+                    "id": "9c271b1d-b463-4f6a-9042-701dea699e16",
                     "path": "1DAxis",
                     "interactions": "",
                     "processors": "",
@@ -256,8 +256,8 @@
                 },
                 {
                     "name": "negative",
-                    "id": "3992f3ce-0b5f-43b8-b5fc-c3addd95b688",
-                    "path": "<Gamepad>/rightStick/down",
+                    "id": "43e96da2-eb69-4f42-85a8-fe2478f3a5ef",
+                    "path": "<Gamepad>/leftTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -267,8 +267,8 @@
                 },
                 {
                     "name": "positive",
-                    "id": "02b7e20e-8da5-4983-8b71-1ee62362cc29",
-                    "path": "<Gamepad>/rightStick/up",
+                    "id": "3bcd448e-4b2e-453a-9cbc-baee83168800",
+                    "path": "<Gamepad>/rightTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

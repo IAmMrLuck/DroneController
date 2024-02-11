@@ -58,7 +58,7 @@ namespace ConaLuk
         protected virtual void HandleControls()
         {
             float pitch = droneInputs.Cyclic.y * minMaxPitch;
-            float roll = -droneInputs.Cyclic.x * minMaxRoll;
+            float roll = - droneInputs.Cyclic.x * minMaxRoll;
             // float yaw = droneInputs.Pedals * yawPower;
             yaw += droneInputs.Pedals * yawPower;
 

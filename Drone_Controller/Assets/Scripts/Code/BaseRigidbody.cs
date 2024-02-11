@@ -10,7 +10,6 @@ namespace ConaLuk
         #region Variables
 
         [Header("Rigidbody Properties")]
-        [SerializeField] private float weightInGrams = 1f;
 
         protected Rigidbody baseRB;
         protected float startDrag;
